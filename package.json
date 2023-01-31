@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/leo-source/online.mfa.gov.ua/issues"
   },
-  "homepage": "https://github.com/leo-source/online.mfa.gov.ua#readme"
+  "homepage": "https://github.com/leo-source/online.mfa.gov.ua#readme",
+  "dependencies": {
+    "puppeteer": "^19.6.2",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-recaptcha": "^3.6.6"
+  }
 }
