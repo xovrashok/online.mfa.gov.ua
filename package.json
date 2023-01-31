@@ -1,0 +1,19 @@
+{
+  "name": "online.mfa.gov.ua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-source/online.mfa.gov.ua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-source/online.mfa.gov.ua/issues"
+  },
+  "homepage": "https://github.com/leo-source/online.mfa.gov.ua#readme"
+}
